@@ -6,22 +6,23 @@ move, eat, and battle according to their own rules.
 🛠️ Built as part of a university project to demonstrate object-oriented programming, inheritance, and basic AI logic.
 
 **Features**
-   -🧠 Custom AI Logic for each critter type
-   -🐻 Bear Critter that moves in a zigzag pattern and always eats
-   -🐆 Cheetah Critter that moves three steps in one (random) direction, then repeats
+   - 🧠 Custom AI Logic for each critter type
+   - 🐻 Bear Critter that moves in a zigzag pattern and always eats
+   - 🐆 Cheetah Critter that moves three steps in one (random) direction, then repeats
    and that pounces when it has eaten or scratches otherwise
-   -🦁 Lion Critter that changes direction every 5 steps, roars at bears or pounces
+   - 🦁 Lion Critter that changes direction every 5 steps, roars at bears or pounces
    at the other critters, and eats after it has fought
-   -🕺 Torero Critter follows a patterned path using a predefined list tor_move,
+   - 🕺 Torero Critter follows a patterned path using a predefined list tor_move,
    only eats if there are no neighbors and uses different attack strategies based
    on opponent type.
-   -🎨 Color-coded critters (e.g., grizzly vs. polar bear)
-   -💥 Fight mechanics and behavior customization
-   -🖼️ Graphical user interface using tkinter
-   -🔁 Easily extendable for new critter types
+   - 🎨 Color-coded critters (e.g., grizzly vs. polar bear)
+   - 💥 Fight mechanics and behavior customization
+   - 🖼️ Graphical user interface using tkinter
+   - 🔁 Easily extendable for new critter types
 
 **Screenshot - Photo of the Critters in Action!**
-(Add a screenshot here of the GUI with some critters in action!)
+<img width="1440" alt="Screen Shot 2025-04-16 at 12 58 12 PM" src="https://github.com/user-attachments/assets/5b2808b5-d9c2-4115-8abc-34b615b7073c" />
+
 
 **Tech Stack**
 - Python 3
