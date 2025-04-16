@@ -5,7 +5,6 @@ A Python implementation of Critters!
 
 Authors:
 1) Kyla Clarke - kylaclarke@sandiego.edu
-2) Mikayla Thurber - mthurber@sandiego.edu 
 """
 
 import random
