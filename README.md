@@ -20,7 +20,8 @@ move, eat, and battle according to their own rules.
    - 🖼️ Graphical user interface using tkinter
    - 🔁 Easily extendable for new critter types
 
-**Screenshot - Photo of the Critters in Action!**
+**Photo of the Critters in Action!**
+
 <img width="1440" alt="Screen Shot 2025-04-16 at 12 58 12 PM" src="https://github.com/user-attachments/assets/5b2808b5-d9c2-4115-8abc-34b615b7073c" />
 
 
