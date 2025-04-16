@@ -41,9 +41,8 @@ move, eat, and battle according to their own rules.
 python main.py
 ⚠️ Make sure you have Python 3 installed.
 
-## Authors
+## Author(s)
 Kyla Clarke — kylaclarke0405@gmail.com
-Mikayla Thurber — mthurber@sandiego.edu
 
 ## Future Improvements
 - Add more critter types (e.g., Turtle, Snake)
