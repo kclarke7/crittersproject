@@ -5,7 +5,7 @@ move, eat, and battle according to their own rules.
 
 🛠️ Built as part of a university project to demonstrate object-oriented programming, inheritance, and basic AI logic.
 
-**Features**
+## **Features**
    - 🧠 Custom AI Logic for each critter type
    - 🐻 Bear Critter that moves in a zigzag pattern and always eats
    - 🐆 Cheetah Critter that moves three steps in one (random) direction, then repeats
@@ -20,18 +20,18 @@ move, eat, and battle according to their own rules.
    - 🖼️ Graphical user interface using tkinter
    - 🔁 Easily extendable for new critter types
 
-**Photo of the Critters in Action!**
+## **Photo of the Critters in Action!**
 
 <img width="1440" alt="Screen Shot 2025-04-16 at 12 58 12 PM" src="https://github.com/user-attachments/assets/5b2808b5-d9c2-4115-8abc-34b615b7073c" />
 
 
-**Tech Stack**
+## **Tech Stack**
 - Python 3
 - tkinter (for GUI)
 - enum (for defining directions, attacks, etc.)
 - OOP principles: inheritance, polymorphism, and encapsulation
 
-**How to Run**
+## **How to Run**
 1. Clone the repository:
    git clone https://github.com/kclarke7/crittersproject.git
    cd critters
@@ -41,11 +41,11 @@ move, eat, and battle according to their own rules.
 python main.py
 ⚠️ Make sure you have Python 3 installed.
 
-**Authors**
+## **Authors**
 Kyla Clarke — kylaclarke0405@gmail.com
 Mikayla Thurber — mthurber@sandiego.edu
 
-**Future Improvements**
+## **Future Improvements**
 - Add more critter types (e.g., Turtle, Snake)
 - Introduce obstacle-based maps
 - Allow user-defined critters via GUI
